@@ -1,1 +1,3 @@
-# CS215_Autumn_2023
+# CS215
+
+This repository consists of my submissions of the Homework Assignments of CS215(Data Analysis and Interpretation)
