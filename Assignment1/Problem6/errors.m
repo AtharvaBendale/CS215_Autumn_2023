@@ -1,0 +1,6 @@
+y_avg30_error = sum((y_avg30-y).^2)/sum(y.^2)
+y_avg60_error = sum((y_avg60-y).^2)/sum(y.^2)
+y_median30_error = sum((y_median30-y).^2)/sum(y.^2)
+y_median60_error = sum((y_median60-y).^2)/sum(y.^2)
+y_quar30_error = sum((y_quar30-y).^2)/sum(y.^2)
+y_quar60_error = sum((y_quar60-y).^2)/sum(y.^2)
